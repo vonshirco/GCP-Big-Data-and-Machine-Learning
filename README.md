@@ -5,7 +5,7 @@ Introduction to Google Cloud's Big Data and Machine Learning Functions through h
 Objectives: Query a public dataset, Create a custom table, Load data into a table and Query a table
 
 ## 2. Recommending Products Using Cloud SQL and Spark
-Populate rentals data in Cloud SQL for the rentals recommendation engine to use. The recommendations engine itself will run on Dataproc using Spark ML.
+Populating rentals data in Cloud SQL for the rentals recommendation engine to use. The recommendations engine itself will run on Dataproc using Spark ML.
 Objectives: 
 Create a Cloud SQL instance, 
 Create database tables by importing .sql files from Cloud Storage,
