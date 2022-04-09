@@ -6,7 +6,7 @@ Objectives: Query a public dataset, Create a custom table, Load data into a tabl
 
 ## 2. Recommending Products Using Cloud SQL and Spark
 Populating rentals data in Cloud SQL for the rentals recommendation engine to use. The recommendations engine itself will run on Dataproc using Spark ML.
-Objectives: 
+### Objectives: 
 Create a Cloud SQL instance, 
 Create database tables by importing .sql files from Cloud Storage,
 Populate the tables by importing .csv files from Cloud Storage,
